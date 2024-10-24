@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "642377156095",
+    "project_id": "goldtrackerhw2",
+    "storage_bucket": "goldtrackerhw2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642377156095:android:e0127ce7db51210411d3ca",
+        "android_client_info": {
+          "package_name": "com.cs184.hw2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642377156095-oup0ta5mdre4fdc06hkdsvujs1okqrc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuKiLNidzN4z7NH5jZdsRNpAHCsuJAuYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642377156095-oup0ta5mdre4fdc06hkdsvujs1okqrc9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "642377156095-bsr48emodr8ttsnjjr14bfn2h0qu7g3f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cs184.hw2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
